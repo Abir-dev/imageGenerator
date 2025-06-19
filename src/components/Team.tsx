@@ -4,22 +4,22 @@ import { Users } from 'lucide-react';
 const teamMembers = [
   {
     name: 'Jit Barui',
-    image: '/src/public/Jit.jpeg',
+    image: '/Jit.jpeg',
     role: 'Developer'
   },
   {
     name: 'Arin Biswas',
-    image: '/src/public/Arin.jpeg',
+    image: '/Arin.jpeg',
     role: 'Developer'
   },
   {
     name: 'Arindam Roy',
-    image: '/src/public/Arindam.jpeg',
+    image: '/Arindam.jpeg',
     role: 'Developer'
   },
   {
     name: 'Karim Shekh',
-    image: '/src/public/karim.jpeg',
+    image: '/karim.jpeg',
     role: 'Developer'
   }
 ];
